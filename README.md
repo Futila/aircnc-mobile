@@ -37,8 +37,8 @@ $ yarn
 $ yarn start
 ```
 
-## Backend 
-A aplicação wev está disponível em mobile [web](https://github.com/Futila/aircnc-frontend)
+## Backend e Aplicação Web
+A aplicação web está disponível em mobile [web](https://github.com/Futila/aircnc-frontend)
 
 O Backend (API) da aplicação está disponível em [backend](https://github.com/Futila/aircnc-backend). 
 
